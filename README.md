@@ -28,4 +28,8 @@ in 2017, and have only grown stronger over the past 2 years.
 ## Key Insights for Presentation
 
 The main insight is that the bikeshare program is used by a very specific
-group of people, in very specific ways. 
+group of people, in very specific ways. While the program is popular, and
+increasing in popularity, that popularity is limited to a dedicated
+subscriber base. That subscribership is itself limited to mostly young men,
+moving around downtown San Francisco. As the program continues, it might focus
+on building up ridership in new areas, among new types of users.
